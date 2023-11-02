@@ -68,4 +68,9 @@ metadata:
   uid: f1ff4023-148e-43ef-986f-dc90f9e6e223
 
 
+#  get configmap -nkube-system
+#  kubectl edit -n kube-system configmap/aws-auth
+# aws eks update-kubeconfig --name jjtech-demo-cluster --region us-east-1 --profile developer
+
+
 
