@@ -70,7 +70,7 @@ metadata:
 
 #  get configmap -nkube-system
 #  kubectl edit -n kube-system configmap/aws-auth
-# aws eks update-kubeconfig --name jjtech-demo-cluster --region us-east-1 --profile developer
+#  aws eks update-kubeconfig --name jjtech-demo-cluster --region us-east-1 --profile developer
 
 
 
